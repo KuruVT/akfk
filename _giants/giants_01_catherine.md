@@ -14,6 +14,12 @@ toc: false
 Stable
 {: .label .label-green }
 
-![Catherine](https://github.com/KuruVT/AKfK-Wiki/blob/main/assets/images/giants/catherine.png?raw=true)
+<div style="display: flex; align-items: flex-start; gap: 1rem;">
+  <div style="flex: 1;">
+    Catherine is gleeful, friendly and enjoys the outdoor. She always gives the Keflings the caring they deserve.
+  </div>
+  <div>
+    <img src="https://github.com/KuruVT/AKfK-Wiki/blob/main/assets/images/giants/catherine.png?raw=true" alt="Catherine" style="max-width: 200px; height: auto;">
+  </div>
+</div>
 
-Catherine is gleeful, friendly and enjoys the outdoor. She always gives the Keflings the caring they deserve.
