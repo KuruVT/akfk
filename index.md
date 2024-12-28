@@ -20,7 +20,10 @@ Welcome to the unofficial wiki for *A Kingdom for Keflings*!
 
 ## Credits
 
-![Credits](https://github.com/KuruVT/akfk/blob/main/assets/videos/credits.mp4?raw=true)
+<video src="https://github.com/KuruVT/akfk/blob/main/assets/videos/credits.mp4?raw=true" controls width="640" height="360">
+  Your browser does not support the video tag.
+</video>
+
 
 ## Contribute to the Wiki
 This is a solo project. If you’d like to contribute or suggest changes, please visit my [GitHub repository](https://github.com/KuruVT/akfk).
