@@ -3,7 +3,7 @@ title: Grant
 description: "In A Kingdom for Keflings you control a friendly giant helping the Keflings. When you begin your game you get to choose which giant you would like to play as."
 permalink: /giants/grant
 layout: default
-nav_order: 1
+nav_order: 2
 image: https://github.com/KuruVT/akfk/blob/main/assets/images/banner.png?raw=true
 toc: false
 ---
