@@ -26,7 +26,5 @@ Stable
   </div>
   <div style="display: flex; flex-direction: column; gap: 0.5rem;">
     <img src="https://github.com/KuruVT/akfk/blob/main/assets/images/keflings/female_rockminer.png?raw=true" alt="Female Rockminer" style="max-width: 100px; height: auto;">
-    <img src="https://g
-
-
-
+  <img src="https://github.com/KuruVT/akfk/blob/main/assets/images/keflings/male_rockminer.png?raw=true" alt="male Rockminer" style="max-width: 100px; height: auto;">
+  </div>
