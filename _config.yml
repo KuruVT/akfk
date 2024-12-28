@@ -39,14 +39,14 @@ callouts:
     color: red
 
 collections:
-  guides:
-    permalink: "/guides/:title/"
+  giants:
+    permalink: "/giants/:title/"
     output: true
 
 just_the_docs:
   show_last_modified_at: true 
   collections:
-    guides:
-      name: guides
+    giants:
+      name: giants
       nav_fold: true 
 
