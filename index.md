@@ -3,11 +3,11 @@ title: Home
 layout: home
 ---
 
-![A Kingdom for Keflings Logo](/assets/images/logo.png)
+![A Kingdom for Keflings Logo](https://github.com/KuruVT/AKfK-Wiki/blob/main/assets/images/logo.png?raw=true)
 
 # Welcome to the A Kingdom for Keflings Wiki
 
-> {: .warning }
+{: .warning }
 > **WORK IN PROGRESS**  
 > This website is currently under development. Content may be incomplete or subject to change.
 
