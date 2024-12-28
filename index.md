@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
 
 ![A Kingdom for Keflings Logo](https://github.com/KuruVT/akfk/blob/main/assets/images/logo.png?raw=true)
