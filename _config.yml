@@ -22,9 +22,9 @@ gh_edit_branch: "main"
 gh_edit_view_mode: "edit"
 
 callouts:
-  highlight:
-    title: Highlight
-    color: grey-lt
+  hint:
+    title: Hint
+    color: yellow
   important:
     title: Important
     color: blue
