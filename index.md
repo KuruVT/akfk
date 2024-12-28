@@ -8,7 +8,6 @@ layout: home
 # Welcome to the A Kingdom for Keflings Wiki
 
 {: .warning }
-> **WORK IN PROGRESS**  
 > This website is currently under development. Content may be incomplete or subject to change.
 
 Welcome to the unofficial wiki for *A Kingdom for Keflings*!

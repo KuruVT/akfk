@@ -3,15 +3,13 @@ description: An unofficial wiki dedicated to documenting all aspects of A Kingdo
 theme: just-the-docs
 logo: "/assets/images/logo.png"
 favicon_ico: "/assets/images/favicon.ico"
+color_scheme: dark
 
 url: https://kuruvt.github.io/AKfK-Wiki
 
 aux_links:
   Official Website: https://www.ninjabee.com/games/akingdomforkeflings/
   Official Discord: https://discord.gg/R9d95zQpJH
-
-color_scheme: dark
-
 
 footer_content: "An unofficial wiki for A Kingdom for Keflings."
 last_edit_timestamp: true 
@@ -22,3 +20,33 @@ gh_edit_link_text: "Edit this page on GitHub."
 gh_edit_repository: "https://github.com/KuruVT/AKfK-Wiki"
 gh_edit_branch: "main" 
 gh_edit_view_mode: "edit"
+
+callouts:
+  highlight:
+    title: Highlight
+    color: grey-lt
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
+
+collections:
+  guides:
+    permalink: "/guides/:title/"
+    output: true
+
+just_the_docs:
+  show_last_modified_at: true 
+  collections:
+    guides:
+      name: guides
+      nav_fold: true 
+
