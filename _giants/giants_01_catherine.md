@@ -4,6 +4,6 @@ description: "In A Kingdom for Keflings you control a friendly giant helping the
 permalink: /giants/catherine
 layout: default
 nav_order: 1
-image: TBD
+image: https://github.com/KuruVT/AKfK-Wiki/blob/main/assets/images/banner.png?raw=true
 toc: false
 ---
