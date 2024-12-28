@@ -8,7 +8,7 @@ image: https://github.com/KuruVT/akfk/blob/main/assets/images/banner.png?raw=tru
 toc: false
 ---
 
-##  Kefling ![Kefling](https://github.com/KuruVT/akfk/blob/main/assets/images/keflings/kefling-icon.png?raw=true){: style="vertical-align: middle; height: 1em;" }
+##  Kefling ![Kefling](https://github.com/KuruVT/akfk/blob/main/assets/images/keflings/kefling_icon.png?raw=true){: style="vertical-align: middle; height: 1em;" }
 {: .d-inline-block .no_toc }
 
 Stable
