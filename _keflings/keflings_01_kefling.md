@@ -16,7 +16,7 @@ Stable
 
 <div style="display: flex; align-items: flex-start; gap: 1rem;">
   <div style="flex: 1;">
-    The basic Kefling villager.<br>They don't do much except follow the player around and wave at them until given a job.
+  The Basic Kefling is an idle villager that follows the player and waves until assigned a task.<br>It does not perform any work until given a specific role.
   </div>
   <div style="display: flex; flex-direction: column; gap: 0.5rem;">
     <img src="https://github.com/KuruVT/akfk/blob/main/assets/images/keflings/female_kefling.png?raw=true" alt="Female Kefling" style="max-width: 100px; height: auto;">
