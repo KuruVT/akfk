@@ -39,20 +39,38 @@ callouts:
     color: red
 
 collections:
+  quests:
+    permalink: "/quests/:title/"
+    output: true
   giants:
     permalink: "/giants/:title/"
     output: true
+  buildings:
+    permalink: "/buildings/:title/"
+    output: true
   keflings:
     permalink: "/keflings/:title/"
+    output: true
+  resources:
+    permalink: "/resources/:title/"
     output: true
 
 just_the_docs:
   show_last_modified_at: true 
   collections:
+    quests:
+      name: quests
+      nav_fold: true 
     giants:
       name: giants
       nav_fold: true 
+    buildings:
+      name: buildings
+      nav_fold: true 
     keflings:
       name: keflings
+      nav_fold: true 
+    resources:
+      name: resources
       nav_fold: true 
 

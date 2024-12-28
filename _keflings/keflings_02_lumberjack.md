@@ -16,7 +16,7 @@ Stable
 
 <div style="display: flex; align-items: flex-start; gap: 1rem;">
   <div style="flex: 1;">
-    The Lumberjack Kefling is responsible for chopping trees to produce logs.<br>Once a tree is fully harvested, the Kefling will automatically move to the nearest tree in the area to continue gathering resources.<br>To assign a Kefling to this task, pick it up and place it on a tree resource block.<br>Additionally, you can direct the Kefling to deliver logs by placing it at a collection point, such as the Basic Workshop.
+    The Lumberjack Kefling is responsible for chopping trees to produce <img src="https://github.com/KuruVT/akfk/blob/main/assets/images/resources/logs.png?raw=true" alt="Logs" style="vertical-align: middle; height: 1em;"> <br>Once a tree is fully harvested, the Kefling will automatically move to the nearest tree in the area to continue gathering resources.<br>To assign a Kefling to this task, pick it up and place it on a tree resource block.<br>Additionally, you can direct the Kefling to deliver logs by placing it at a collection point, such as the Basic Workshop.
     
     
     <br><br>Lumberjack Keflings work more efficiently if the Saw Pit has been constructed, allowing them to chop wood faster.
