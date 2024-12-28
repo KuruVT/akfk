@@ -8,7 +8,10 @@ image: https://github.com/KuruVT/AKfK-Wiki/blob/main/assets/images/banner.png?ra
 toc: false
 ---
 
-# Catherine
+## Catherine
+{: .d-inline-block .no_toc }
+
+Stable
 {: .label .label-green }
 
 ![Catherine](https://github.com/KuruVT/AKfK-Wiki/blob/main/assets/images/giants/catherine.png?raw=true)
