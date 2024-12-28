@@ -42,11 +42,17 @@ collections:
   giants:
     permalink: "/giants/:title/"
     output: true
+  keflings:
+    permalink: "/keflings/:title/"
+    output: true
 
 just_the_docs:
   show_last_modified_at: true 
   collections:
     giants:
       name: giants
+      nav_fold: true 
+    keflings:
+      name: keflings
       nav_fold: true 
 
