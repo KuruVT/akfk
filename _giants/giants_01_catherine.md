@@ -7,3 +7,10 @@ nav_order: 1
 image: https://github.com/KuruVT/AKfK-Wiki/blob/main/assets/images/banner.png?raw=true
 toc: false
 ---
+
+# Catherine
+{: .label .label-green }
+
+https://github.com/KuruVT/AKfK-Wiki/blob/main/assets/images/giants/catherine.png?raw=true
+
+Catherine is gleeful, friendly and enjoys the outdoor. She always gives the Keflings the caring they deserve.
