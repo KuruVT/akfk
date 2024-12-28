@@ -4,7 +4,7 @@ description: "In A Kingdom for Keflings you control a friendly giant helping the
 permalink: /giants/grant
 layout: default
 nav_order: 1
-image: https://github.com/KuruVT/AKfK-Wiki/blob/main/assets/images/banner.png?raw=true
+image: https://github.com/KuruVT/akfk/blob/main/assets/images/banner.png?raw=true
 toc: false
 ---
 
@@ -19,7 +19,7 @@ Stable
 Grant's strong arms, finely tailored suits,<br>and well groomed hair are the envy of giants everywhere.
   </div>
   <div>
-    <img src="https://github.com/KuruVT/AKfK-Wiki/blob/main/assets/images/giants/grant.png?raw=true" alt="Grant" style="max-width: 200px; height: auto;">
+    <img src="https://github.com/KuruVT/akfk/blob/main/assets/images/giants/grant.png?raw=true" alt="Grant" style="max-width: 200px; height: auto;">
   </div>
 </div>
 

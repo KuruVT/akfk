@@ -4,7 +4,7 @@ description: "In A Kingdom for Keflings you control a friendly giant helping the
 permalink: /giants/catherine
 layout: default
 nav_order: 1
-image: https://github.com/KuruVT/AKfK-Wiki/blob/main/assets/images/banner.png?raw=true
+image: https://github.com/KuruVT/akfk/blob/main/assets/images/banner.png?raw=true
 toc: false
 ---
 
@@ -20,7 +20,7 @@ Catherine is gleeful, friendly and enjoys the outdoor.<br>She always gives the K
 
   </div>
   <div>
-    <img src="https://github.com/KuruVT/AKfK-Wiki/blob/main/assets/images/giants/catherine.png?raw=true" alt="Catherine" style="max-width: 200px; height: auto;">
+    <img src="https://github.com/KuruVT/akfk/blob/main/assets/images/giants/catherine.png?raw=true" alt="Catherine" style="max-width: 200px; height: auto;">
   </div>
 </div>
 

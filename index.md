@@ -3,7 +3,7 @@ title: Home
 layout: home
 ---
 
-![A Kingdom for Keflings Logo](https://github.com/KuruVT/AKfK-Wiki/blob/main/assets/images/logo.png?raw=true)
+![A Kingdom for Keflings Logo](https://github.com/KuruVT/akfk/blob/main/assets/images/logo.png?raw=true)
 
 # Welcome to the A Kingdom for Keflings Wiki
 
@@ -19,7 +19,7 @@ Welcome to the unofficial wiki for *A Kingdom for Keflings*!
 - WIP
 
 ## Contribute to the Wiki
-This is a solo project. If you’d like to contribute or suggest changes, please visit my [GitHub repository](https://github.com/KuruVT/AKfK-Wiki).
+This is a solo project. If you’d like to contribute or suggest changes, please visit my [GitHub repository](https://github.com/KuruVT/akfk).
 
 Stay tuned for updates as I continue to build this resource. If you notice missing information or errors, feel free to open an issue on GitHub!
 
